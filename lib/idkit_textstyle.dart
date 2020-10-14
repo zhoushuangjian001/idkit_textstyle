@@ -77,8 +77,8 @@ extension IDKitTextStyle on TextStyle {
   /// Bold
   TextStyle get bold => iFontWeight(FontWeight.bold);
 
-  /// Semi-bold
-  TextStyle get semilBold => iFontWeight(FontWeight.w600);
+  /// Semibold
+  TextStyle get semiBold => iFontWeight(FontWeight.w600);
 
   /// Medium
   TextStyle get medium => iFontWeight(FontWeight.w500);
